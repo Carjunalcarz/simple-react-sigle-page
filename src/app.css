@@ -1,0 +1,19 @@
+.content {
+    margin-top: 20px;
+   
+
+}
+.footer{
+    background-color: black;
+    height: 80px;
+    color: white;
+    text-align: center;
+    padding: 20PX;
+    font-size: 30PX;
+    font-family: Cambria;
+  
+}
+img {
+    height: 500px;
+  
+}
